@@ -5,4 +5,4 @@ the caretaker pr-generator pipeline. It contains a deliberate documentation bug.
 
 ## Installation
 
-Run the instalation script to configure the tool.
+Run the installation script to configure the tool.
